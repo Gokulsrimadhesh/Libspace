@@ -1,5 +1,3 @@
-<img width="1366" height="768" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/1e083e8b-25ad-487b-8370-d9ffe36f84fc" /># My-LibSpace
-
 # My Libspace
 
 > LibSpace is a backend API project designed to teach students the fundamentals of authentication and CRUD operations using Node.js, Express, and MongoDB. The system allows users to securely register and log in to receive a JSON Web Token (JWT). Authenticated users can then manage a digital library by adding new books, viewing the entire collection or specific id, updating book details, and deleting entries, ensuring that sensitive data modification is protected by secure token verification.
@@ -60,6 +58,15 @@ Before you begin, ensure you have the following installed:
 npm start
 
 5. Output ScreenShot
+<img width="1366" height="768" alt="Screenshot (407)" src="https://github.com/user-attachments/assets/1e083e8b-25ad-487b-8370-d9ffe36f84fc" /># My-LibSpace
+
+<img width="1366" height="768" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/532b05c7-a773-4910-8b21-4bf87561d9ba" />
+
+<img width="1366" height="768" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/a4017e18-e668-4e11-9f8a-29a8033fc232" />
+
+<img width="1366" height="768" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/b63016e2-08f6-4859-95c6-3a3f39d8b60b" />
+
+
 
    
 
