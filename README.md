@@ -60,12 +60,8 @@ npm start
 5. Output ScreenShot
 ![WhatsApp Image 2026-03-08 at 10 00 31 AM](https://github.com/user-attachments/assets/2fad9cf0-7ad0-4d61-a41a-1556f279ff15)
 
+<img width="1366" height="768" alt="Screenshot (412)" src="https://github.com/user-attachments/assets/81da32f8-999d-4044-8714-998c7929779c" />
 
-<img width="1366" height="768" alt="Screenshot (408)" src="https://github.com/user-attachments/assets/532b05c7-a773-4910-8b21-4bf87561d9ba" />
-
-<img width="1366" height="768" alt="Screenshot (409)" src="https://github.com/user-attachments/assets/a4017e18-e668-4e11-9f8a-29a8033fc232" />
-
-<img width="1366" height="768" alt="Screenshot (410)" src="https://github.com/user-attachments/assets/b63016e2-08f6-4859-95c6-3a3f39d8b60b" />
 
 
 
